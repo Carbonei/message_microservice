@@ -17,4 +17,4 @@ appropriately.
 C. To receive the data, the caller must use socket.recv(). For example, message = socket.recv() stores the encrypted data in the variable "message."
 To use the data, the caller uses variable_name.decode() or, in line with the example, message.decode().
 
-D. 
+D.  ![UML Diagram](../UML_diagram.png "UML Diagram image")
